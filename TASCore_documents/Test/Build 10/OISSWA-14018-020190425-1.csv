@@ -1,0 +1,7 @@
+OISSWA-14018,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS API,01.00.65,20190425,POAM Required,Low,CWE-352,Cross-Site Request Forgery,5
+OISSWA-14018,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS API,01.00.65,20190425,POAM Required,Low,N/A,JavaScript Hijacking: Vulnerable Framework,10
+OISSWA-14018,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS API,01.00.65,20190425,POAM Required,Low,CWE-15,Setting Manipulation,1
+OISSWA-14018,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS API,01.00.65,20190425,Pass,Medium,N/A,N/A,0
+OISSWA-14018,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS API,01.00.65,20190425,Pass,High,N/A,N/A,0
+OISSWA-14018,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS API,01.00.65,20190425,Pass,Critical,N/A,N/A,0
+OISSWA-14018,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS API,01.00.65,20190425,Pass,Scan Issues,N/A,N/A,0
