@@ -1,0 +1,10 @@
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,POAM Required,Low,N/A,Build Misconfiguration: External Maven Dependency Repository,1
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,POAM Required,Low,CWE-613,J2EE Misconfiguration: Excessive Session Timeout,1
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,POAM Required,Low,CWE-7,J2EE Misconfiguration: Missing Error Handling,1
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,POAM Required,Low,CWE-396,Poor Error Handling: Overly Broad Catch,9
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,POAM Required,Low,CWE-397,Poor Error Handling: Overly Broad Throws,4
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,POAM Required,Low,CWE-497,System Information Leak,3
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,Pass,Medium,N/A,N/A,0
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,Pass,High,N/A,N/A,0
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,Pass,Critical,N/A,N/A,0
+OISSWA-14185,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS FHIR Services,02.00.5,20190513,Pass,Scan Issues,N/A,N/A,0
