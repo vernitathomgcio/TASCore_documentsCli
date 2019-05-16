@@ -1,0 +1,15 @@
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,N/A,Build Misconfiguration: External Maven Dependency Repository,4
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-398,Code Correctness: Class Does Not Implement equals,3
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,N/A,Denial of Service: StringBuilder,2
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-489,J2EE Bad Practices: Leftover Debug Code,2
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-246,J2EE Bad Practices: Sockets,3
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-253 CWE-690,Missing Check against Null,2
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-396,Poor Error Handling: Overly Broad Catch,7
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-397,Poor Error Handling: Overly Broad Throws,29
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-395,Poor Error Handling: Program Catches NullPointerException,3
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-398,Poor Logging Practice: Use of a System Output Stream,1
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,POAM Required,Low,CWE-493,Poor Style: Non-final Public Static Field,13
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,Pass,Medium,N/A,N/A,0
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,Pass,High,N/A,N/A,0
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,Pass,Critical,N/A,N/A,0
+OISSWA-14233,Medical Care Collections Fund (MCCF) EDI TAS eBusiness Assessing,TAS VistaLink,02.00.03,20190516,Pass,Scan Issues,N/A,N/A,0
